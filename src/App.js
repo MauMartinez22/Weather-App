@@ -13,7 +13,7 @@ function App() {
     const[loading, setLoading] = useState(true)
   return (
     
-    <div className='app'>
+    <div >
     <WeatherApp/>
       
 
